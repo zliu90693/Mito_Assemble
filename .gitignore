@@ -1,3 +1,7 @@
 *.gz
 *.aria2
 *.fasta
+*.bz2
+*refseq89m/
+*.sra
+*annotate_out/
