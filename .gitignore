@@ -5,3 +5,6 @@
 *refseq89m/
 *.sra
 *annotate_out/
+*.gtf
+*.gff
+*agat*/
