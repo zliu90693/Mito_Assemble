@@ -8,4 +8,3 @@
   ```bash
   ./1_get-fastq.sh -s SRR11352862 -n Lasioglossum_zephyrus
   ```
-- 

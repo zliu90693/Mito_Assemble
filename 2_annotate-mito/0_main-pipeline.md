@@ -13,4 +13,8 @@
   - Bombus terrestris, Source: NCBI, ID: OU342939.1, Link: https://www.ncbi.nlm.nih.gov/nuccore/OU342939.1
   - Lasioglossum zephyrus, Source: [1_generate-mito Project](../1_generate-mito/)
 
-- 
+- Annotate mitochondrial genes using [runmitos](./1_run-runmitos.sh)
+  ```bash
+  cd /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/2_annotate-mito
+  ./1_run-runmitos.sh
+  ```
