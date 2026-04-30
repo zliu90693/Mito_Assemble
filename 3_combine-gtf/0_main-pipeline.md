@@ -1,7 +1,7 @@
 - Create symbolic links to the mito gff files output by the [2_annotate-mito](../2_annotate-mito) project.
   ```bash
   cd /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/3_combine-gtf/annotate_out_gff
-  for path in $(find ../../2_annotate-mito -name "*.gff"); do
+  for path in $(find "../../2_annotate-mito" -name "*.gff"); do
       sp_name=$(basename $(dirname "$path"))
       ln -sf $path "${sp_name}.gff"
   done
@@ -26,7 +26,7 @@
 - Merge mitochondrial GTF files with genomic GTF files lacking mitochondria.
   ```bash
   cd /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/3_combine-gtf
-  cat "./annotate_out_gtf/Bombus_terrestris.gtf" "./genome_gtf/Bombus_terrestris.gtf" > "./combined_gtf/Bombus_terrestris.gtf"
-  cat "./annotate_out_gtf/Harpegnathos_saltator.gtf" "./genome_gtf/Harpegnathos_saltator.gtf" > "./combined_gtf/Harpegnathos_saltator.gtf"
-  cat "./annotate_out_gtf/Monomorium_pharaonis.gtf" "./genome_gtf/Monomorium_pharaonis.gtf" > "./combined_gtf/Monomorium_pharaonis.gtf"
+  cat "./genome_gtf/Bombus_terrestris.gtf" "./annotate_out_gtf/Bombus_terrestris.gtf" > "./combined_gtf/Bombus_terrestris.gtf"
+  cat "./genome_gtf/Harpegnathos_saltator.gtf" "./annotate_out_gtf/Harpegnathos_saltator.gtf" > "./combined_gtf/Harpegnathos_saltator.gtf"
+  cat "./genome_gtf/Monomorium_pharaonis.gtf" "./annotate_out_gtf/Monomorium_pharaonis.gtf" > "./combined_gtf/Monomorium_pharaonis.gtf"
   ```

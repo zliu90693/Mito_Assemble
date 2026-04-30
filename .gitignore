@@ -1,5 +1,6 @@
 *.gz
 *.aria2
+*.fa
 *.fasta
 *.bz2
 *refseq89m/
