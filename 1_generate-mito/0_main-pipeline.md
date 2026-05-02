@@ -10,3 +10,10 @@
   cd /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito
   ./1_get-fastq.sh -s SRR11352862 -n Lasioglossum_zephyrus
   ```
+- ~~Manually download the complete mitochondrial genome of L. as a reference.~~
+- Start assembling mitochondria using [2_assemble-mito.sh](./2_assemble-mito.sh)
+  ```bash
+  cd /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito
+  get_organelle_config.py -a animal_mt # For first-time run, install animal_mt
+  ./2_assemble-mito.sh -n Lasioglossum_zephyrus
+  ```
