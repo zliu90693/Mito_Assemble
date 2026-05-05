@@ -1,0 +1,495 @@
+
+2026-05-04 14:57:13,486 - mitoz.utility.utility - INFO - 
+Found: /home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/spades.py
+
+2026-05-04 14:57:13,486 - mitoz.utility.utility - INFO - 
+Found: /home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/megahit
+
+2026-05-04 14:57:13,486 - mitoz.utility.utility - INFO - 
+all.main() got args:
+Namespace(assembler='megahit', clade='Arthropoda', data_size_for_mt_assembly='3,0', debug=False, fastq_read_length='151', filter_by_taxa=True, filter_other_para='', fq1='Lasioglossum_zephyrus.lite.1_1.fastq.gz', fq2='Lasioglossum_zephyrus.lite.1_2.fastq.gz', func=<function main at 0x7f1327769dc0>, genetic_code='5', insert_size='250', kmers=[71], kmers_megahit=['59', '79', '99'], kmers_spades=['auto'], logger=<Logger mitoz.utility.utility (DEBUG)>, memory='50', min_abundance='10', outprefix='Lasioglossum_zephyrus', phred64=False, profiles_dir='/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles', requiring_relax='0', requiring_taxa='Arthropoda', resume_assembly=False, skip_filter=False, slow_search=False, species_name='Lasioglossum_zephyrus', template_sbt='/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/template.sbt', thread_number='20', tmp_dir=None, workdir='./mito-out/Lasioglossum_zephyrus')
+
+2026-05-04 14:57:13,487 - mitoz.utility.utility - ERROR - 
+Can NOT access Lasioglossum_zephyrus.lite.1_1.fastq.gz !!
+
+2026-05-04 14:58:32,631 - mitoz.utility.utility - INFO - 
+Found: /home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/spades.py
+
+2026-05-04 14:58:32,631 - mitoz.utility.utility - INFO - 
+Found: /home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/megahit
+
+2026-05-04 14:58:32,631 - mitoz.utility.utility - INFO - 
+all.main() got args:
+Namespace(assembler='megahit', clade='Arthropoda', data_size_for_mt_assembly='3,0', debug=False, fastq_read_length='151', filter_by_taxa=True, filter_other_para='', fq1='Lasioglossum_zephyrus.lite.1_1.fastq.gz', fq2='Lasioglossum_zephyrus.lite.1_2.fastq.gz', func=<function main at 0x7f3576f6ed30>, genetic_code='5', insert_size='250', kmers=[71], kmers_megahit=['59', '79', '99'], kmers_spades=['auto'], logger=<Logger mitoz.utility.utility (DEBUG)>, memory='50', min_abundance='10', outprefix='Lasioglossum_zephyrus', phred64=False, profiles_dir='/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles', requiring_relax='0', requiring_taxa='Arthropoda', resume_assembly=False, skip_filter=False, slow_search=False, species_name='Lasioglossum_zephyrus', template_sbt='/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/template.sbt', thread_number='20', tmp_dir=None, workdir='./mito-out/Lasioglossum_zephyrus')
+
+2026-05-04 14:58:32,631 - mitoz.utility.utility - ERROR - 
+Can NOT access Lasioglossum_zephyrus.lite.1_1.fastq.gz !!
+
+2026-05-04 14:59:19,925 - mitoz.utility.utility - INFO - 
+Found: /home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/spades.py
+
+2026-05-04 14:59:19,925 - mitoz.utility.utility - INFO - 
+Found: /home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/megahit
+
+2026-05-04 14:59:19,925 - mitoz.utility.utility - INFO - 
+all.main() got args:
+Namespace(assembler='megahit', clade='Arthropoda', data_size_for_mt_assembly='3,0', debug=False, fastq_read_length='151', filter_by_taxa=True, filter_other_para='', fq1='./fastq/Lasioglossum_zephyrus/Lasioglossum_zephyrus.lite.1_1.fastq.gz', fq2='./fastq/Lasioglossum_zephyrus/Lasioglossum_zephyrus.lite.1_2.fastq.gz', func=<function main at 0x7f81f0fecd30>, genetic_code='5', insert_size='250', kmers=[71], kmers_megahit=['59', '79', '99'], kmers_spades=['auto'], logger=<Logger mitoz.utility.utility (DEBUG)>, memory='50', min_abundance='10', outprefix='Lasioglossum_zephyrus', phred64=False, profiles_dir='/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles', requiring_relax='0', requiring_taxa='Arthropoda', resume_assembly=False, skip_filter=False, slow_search=False, species_name='Lasioglossum_zephyrus', template_sbt='/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/template.sbt', thread_number='20', tmp_dir=None, workdir='./mito-out/Lasioglossum_zephyrus')
+
+2026-05-04 14:59:19,925 - mitoz.utility.utility - INFO - 
+all.main() got updated args:
+Namespace(assembler='megahit', clade='Arthropoda', data_size_for_mt_assembly='3,0', debug=False, fastq_read_length='151', filter_by_taxa=True, filter_other_para='', fq1='/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/fastq/Lasioglossum_zephyrus/Lasioglossum_zephyrus.lite.1_1.fastq.gz', fq2='/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/fastq/Lasioglossum_zephyrus/Lasioglossum_zephyrus.lite.1_2.fastq.gz', func=<function main at 0x7f81f0fecd30>, genetic_code='5', insert_size='250', kmers=[71], kmers_megahit=['59', '79', '99'], kmers_spades=['auto'], logger=<Logger mitoz.utility.utility (DEBUG)>, memory='50', min_abundance='10', outprefix='Lasioglossum_zephyrus', phred64=False, profiles_dir='/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles', requiring_relax='0', requiring_taxa='Arthropoda', resume_assembly=False, skip_filter=False, slow_search=False, species_name='Lasioglossum_zephyrus', template_sbt='/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/template.sbt', thread_number='20', tmp_dir=None, workdir='/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus')
+
+2026-05-04 14:59:19,925 - mitoz.utility.utility - INFO - 
+filter.main() get args: {'logger': <Logger mitoz.utility.utility (DEBUG)>, 'fq1': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/fastq/Lasioglossum_zephyrus/Lasioglossum_zephyrus.lite.1_1.fastq.gz', 'fq2': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/fastq/Lasioglossum_zephyrus/Lasioglossum_zephyrus.lite.1_2.fastq.gz', 'phred64': False, 'outprefix': 'Lasioglossum_zephyrus', 'fastq_read_length': 151, 'data_size_for_mt_assembly': '3,0', 'filter_other_para': '', 'thread_number': '20', 'workdir': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data', 'workdir_done': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data', 'workdir_log': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data'}
+
+2026-05-04 14:59:19,926 - mitoz.utility.utility - INFO - 
+filter.main() get updated args: {'logger': <Logger mitoz.utility.utility (DEBUG)>, 'fq1': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/fastq/Lasioglossum_zephyrus/Lasioglossum_zephyrus.lite.1_1.fastq.gz', 'fq2': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/fastq/Lasioglossum_zephyrus/Lasioglossum_zephyrus.lite.1_2.fastq.gz', 'phred64': False, 'outprefix': 'Lasioglossum_zephyrus', 'fastq_read_length': 151, 'data_size_for_mt_assembly': '3,0', 'filter_other_para': '', 'thread_number': '20', 'workdir': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data', 'workdir_done': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data', 'workdir_log': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data'}
+
+2026-05-04 14:59:19,926 - mitoz.utility.utility - INFO - 
+
+        Paired-end data:
+        fastq_read_length: 151
+        required raw data (Gbp): 3.0
+        fq_records_per_file: 9,933,774
+        lines_per_file * 4: 39,735,096
+        
+
+2026-05-04 14:59:19,926 - mitoz.utility.utility - INFO - 
+
+    # set -vex
+    # set -o pipefail
+    set -e
+
+    mkdir -p /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data
+    mkdir -p /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data
+    mkdir -p /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data
+    cd /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data
+
+    task_id="FastpTask"
+    done_file="/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/$task_id.done"
+    log_o_file="/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/$task_id.o.log"
+    log_e_file="/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/$task_id.e.log"
+
+    if [ -f $done_file ]; then
+        exit 0
+    fi
+
+    if [ -f "/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/fastq/Lasioglossum_zephyrus/Lasioglossum_zephyrus.lite.1_1.fastq.gz" ] && [ -f "/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/fastq/Lasioglossum_zephyrus/Lasioglossum_zephyrus.lite.1_2.fastq.gz" ];
+    then
+        fastp          -i /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/fastq/Lasioglossum_zephyrus/Lasioglossum_zephyrus.lite.1_1.fastq.gz         -I /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/fastq/Lasioglossum_zephyrus/Lasioglossum_zephyrus.lite.1_2.fastq.gz          --length_required 50         --reads_to_process 9933774         -o Lasioglossum_zephyrus.clean_R1.fq.gz         -O Lasioglossum_zephyrus.clean_R2.fq.gz         -R "Lasioglossum_zephyrus"         -j Lasioglossum_zephyrus.QC.json         -h Lasioglossum_zephyrus.QC.html         -w 20 && 1>$log_o_file 2>$log_e_file && touch $done_file   
+ 
+    else
+        fastp          -i /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/fastq/Lasioglossum_zephyrus/Lasioglossum_zephyrus.lite.1_1.fastq.gz          --length_required 50         --reads_to_process 9933774         -o Lasioglossum_zephyrus.clean_R1.fq.gz         -R "Lasioglossum_zephyrus"         -j Lasioglossum_zephyrus.QC.json         -h Lasioglossum_zephyrus.QC.html         -w 20 && 1>$log_o_file 2>$log_e_file && touch $done_file
+    
+    fi
+    
+
+2026-05-04 14:59:41,258 - mitoz.utility.utility - INFO - 
+
+    sequencing: paired end (151 cycles + 151 cycles)
+
+    before_filtering:
+        total_reads: 19,867,548
+        total_bases: 2,999,999,748
+
+    after_filtering:
+        total_reads: 18,613,132
+        total_bases: 2,719,552,438
+
+    
+
+2026-05-04 14:59:41,259 - mitoz.utility.utility - INFO - 
+filter.main() returns:
+/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R1.fq.gz
+/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R2.fq.gz
+
+2026-05-04 14:59:41,259 - mitoz.utility.utility - INFO - 
+assemble.main() got args:
+{'logger': <Logger mitoz.utility.utility (DEBUG)>, 'workdir': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly', 'outprefix': 'Lasioglossum_zephyrus', 'thread_number': '20', 'fq1': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R1.fq.gz', 'fq2': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R2.fq.gz', 'insert_size': '250', 'fastq_read_length': '151', 'assembler': 'megahit', 'tmp_dir': None, 'kmers': [71], 'kmers_megahit': ['59', '79', '99'], 'kmers_spades': ['auto'], 'memory': '50', 'resume_assembly': False, 'profiles_dir': '/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles', 'slow_search': False, 'filter_by_taxa': True, 'requiring_taxa': 'Arthropoda', 'requiring_relax': '0', 'abundance_pattern': 'abun\\=([0-9]+\\.*[0-9]*)', 'min_abundance': '10', 'genetic_code': '5', 'clade': 'Arthropoda', 'skip_read_mapping': True}
+
+2026-05-04 14:59:41,260 - mitoz.utility.utility - INFO - 
+assemble.main() got updated args:
+{'logger': <Logger mitoz.utility.utility (DEBUG)>, 'workdir': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly', 'outprefix': 'Lasioglossum_zephyrus', 'thread_number': '20', 'fq1': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R1.fq.gz', 'fq2': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R2.fq.gz', 'insert_size': '250', 'fastq_read_length': '151', 'assembler': 'megahit', 'tmp_dir': None, 'kmers': [71], 'kmers_megahit': ['59', '79', '99'], 'kmers_spades': ['auto'], 'memory': '50', 'resume_assembly': False, 'profiles_dir': '/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles', 'slow_search': False, 'filter_by_taxa': True, 'requiring_taxa': 'Arthropoda', 'requiring_relax': '0', 'abundance_pattern': 'abun\\=([0-9]+\\.*[0-9]*)', 'min_abundance': '10', 'genetic_code': '5', 'clade': 'Arthropoda', 'skip_read_mapping': True}
+
+2026-05-04 14:59:41,260 - mitoz.utility.utility - INFO - 
+assemble.main() got
+fq1: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R1.fq.gz
+fq2: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R2.fq.gz
+
+2026-05-04 14:59:41,260 - mitoz.utility.utility - INFO - 
+assemble.main() working in /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly
+
+2026-05-04 14:59:41,261 - mitoz.utility.utility - INFO - 
+use_megahit() workdir: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly
+
+2026-05-04 14:59:41,261 - mitoz.utility.utility - INFO - 
+use_megahit() creating: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit
+
+2026-05-04 14:59:41,261 - mitoz.utility.utility - INFO - 
+use_megahit() expected assembly_file: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/megahit_out/final.contigs.fa
+
+2026-05-04 14:59:41,261 - mitoz.utility.utility - INFO - 
+megahit  --out-dir ./megahit_out  --num-cpu-threads 20 --k-list 59,79,99 --memory 500000000000.0 -1 /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R1.fq.gz -2 /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R2.fq.gz
+
+2026-05-04 15:20:20,775 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/assemble/script/megahit/reformat_megahit_scafSeq.py /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/megahit_out/final.contigs.fa  /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/megahit_out/final.contigs.fa.reformatted.fa 
+
+2026-05-04 15:20:21,711 - mitoz.utility.utility - INFO - 
+findmitoscaf.main() got args:
+{'logger': <Logger mitoz.utility.utility (DEBUG)>, 'workdir': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly', 'outprefix': 'Lasioglossum_zephyrus.megahit', 'thread_number': '20', 'fq1': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R1.fq.gz', 'fq2': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R2.fq.gz', 'insert_size': '250', 'fastq_read_length': '151', 'assembler': 'megahit', 'tmp_dir': None, 'kmers': [71], 'kmers_megahit': ['59', '79', '99'], 'kmers_spades': ['auto'], 'memory': '50', 'resume_assembly': False, 'profiles_dir': '/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles', 'slow_search': False, 'filter_by_taxa': True, 'requiring_taxa': 'Arthropoda', 'requiring_relax': '0', 'abundance_pattern': 'abun\\=([0-9]+\\.*[0-9]*)', 'min_abundance': '10', 'genetic_code': '5', 'clade': 'Arthropoda', 'skip_read_mapping': True, 'fastafile': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/megahit_out/final.contigs.fa.reformatted.fa'}
+
+2026-05-04 15:20:21,713 - mitoz.utility.utility - INFO - 
+findmitoscaf.main() got updated args:
+{'logger': <Logger mitoz.utility.utility (DEBUG)>, 'workdir': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly', 'outprefix': 'Lasioglossum_zephyrus.megahit', 'thread_number': '20', 'fq1': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R1.fq.gz', 'fq2': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R2.fq.gz', 'insert_size': '250', 'fastq_read_length': '151', 'assembler': 'megahit', 'tmp_dir': None, 'kmers': [71], 'kmers_megahit': ['59', '79', '99'], 'kmers_spades': ['auto'], 'memory': '50', 'resume_assembly': False, 'profiles_dir': '/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles', 'slow_search': False, 'filter_by_taxa': True, 'requiring_taxa': 'Arthropoda', 'requiring_relax': '0', 'abundance_pattern': 'abun\\=([0-9]+\\.*[0-9]*)', 'min_abundance': '10', 'genetic_code': '5', 'clade': 'Arthropoda', 'skip_read_mapping': True, 'fastafile': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/megahit_out/final.contigs.fa.reformatted.fa'}
+
+2026-05-04 15:20:21,713 - mitoz.utility.utility - INFO - 
+findmitoscaf.main() nhmmer_profile:
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles/CDS_HMM/Arthropoda_CDS.hmm
+
+2026-05-04 15:20:21,713 - mitoz.utility.utility - INFO - 
+findmitoscaf.main() defined_gene_length_f:
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles/CDS_HMM/Arthropoda_CDS_length_list
+
+2026-05-04 15:20:21,713 - mitoz.utility.utility - INFO - 
+findmitoscaf.main() MT_annotation_BGI_pro_db:
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles/MT_database/Animal_CDS_protein.fa
+
+2026-05-04 15:20:21,713 - mitoz.utility.utility - INFO - 
+findmitoscaf.main() workdir:
+/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly
+
+2026-05-04 15:20:21,713 - mitoz.utility.utility - INFO - 
+findmitoscaf.main() result_wdir:
+/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/Lasioglossum_zephyrus.megahit.result
+
+2026-05-04 15:20:21,713 - mitoz.utility.utility - INFO - 
+findmitoscaf.main() got assembly_file:
+/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/megahit_out/final.contigs.fa.reformatted.fa
+
+2026-05-04 15:20:21,714 - mitoz.utility.utility - INFO - 
+findmitoscaf.main() got
+fq1: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R1.fq.gz
+fq2: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R2.fq.gz
+
+2026-05-04 15:20:21,714 - mitoz.utility.utility - INFO - 
+We will skip read-mapping during findmitoscaf().
+
+2026-05-04 15:20:21,714 - mitoz.utility.utility - INFO - 
+tiara mt_expected_result_file: mitochondrion_final.contigs.fa.reformatted.fa
+
+2026-05-04 15:20:21,714 - mitoz.utility.utility - INFO - 
+tiara --input /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/megahit_out/final.contigs.fa.reformatted.fa --output Lasioglossum_zephyrus.megahit.tiara.out.txt  --to_fasta mit pla pro --threads 20  --prob_cutoff 0.65 0.60 --probabilities --min_len 1000
+
+2026-05-04 15:20:40,077 - mitoz.utility.utility - INFO - 
+nhmmer -o Lasioglossum_zephyrus.megahit.hmmout --tblout Lasioglossum_zephyrus.megahit.hmmtblout --cpu 20 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles/CDS_HMM/Arthropoda_CDS.hmm mitochondrion_final.contigs.fa.reformatted.fa
+
+2026-05-04 15:21:06,688 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/findmitoscaf/script/get_besthit_of_each_CDS_from_nhmmer.py Lasioglossum_zephyrus.megahit.hmmtblout Lasioglossum_zephyrus.megahit.hmmtblout.besthit
+
+2026-05-04 15:21:06,718 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/findmitoscaf/script/simlify_nhmmer_tbl_besthit.py Lasioglossum_zephyrus.megahit.hmmtblout.besthit Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim
+
+2026-05-04 15:21:06,756 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/findmitoscaf/script/extract_fasta.py -i mitochondrion_final.contigs.fa.reformatted.fa -q Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim -o Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.fa
+
+2026-05-04 15:21:06,831 - mitoz.utility.utility - INFO - 
+filter_by_nhmmer() return:
+mitochondrion_final.contigs.fa.reformatted.fa, Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim, Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.fa
+
+2026-05-04 15:21:06,843 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/findmitoscaf/script/filter_taxonomy_by_CDS_annotation.py -fa Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.fa -MTsoft /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/MT_annotation_BGI_V1.32/MT_annotation_BGI.pl -db /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles/MT_database/Animal_CDS_protein.fa -thread 20 -genetic_code 5 -requiring_taxa 'Arthropoda' -relax 0 -WISECONFIGDIR /home/liuzhiyu/Software/miniconda3/envs/MitoZ/share/wise2/wisecfg -outf Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fa
+
+2026-05-04 15:23:59,839 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/findmitoscaf/script/filter_hmm-besthit-sim.py Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fa Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa
+
+2026-05-04 15:23:59,884 - mitoz.utility.utility - INFO - 
+do_filter_by_taxa() return:
+hmm_outf_tbl_besthit_sim_filtered_by_taxa:Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa
+hmm_besthit_filtered_by_taxa_fa: Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fa
+
+2026-05-04 15:23:59,885 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/findmitoscaf/script/filter_by_abundance.py 'abun\=([0-9]+\.*[0-9]*)'  10  Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa  Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fa 
+
+2026-05-04 15:24:00,148 - mitoz.utility.utility - INFO - 
+gather_result() creating: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/Lasioglossum_zephyrus.megahit.result
+
+2026-05-04 15:24:00,149 - mitoz.utility.utility - INFO - 
+cp -r Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.low_abundance /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/Lasioglossum_zephyrus.megahit.result
+
+2026-05-04 15:24:00,164 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/findmitoscaf/script/reformat_nhmmer_besthit-sim.py Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.high_abundance_10.0X Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like
+
+2026-05-04 15:24:00,200 - mitoz.utility.utility - INFO - 
+filter_by_abundance() returns hmm_outf_tbl_besthit_sim_fasta_like: Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like
+
+2026-05-04 15:24:00,200 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/findmitoscaf/script/scoring_nhmmer_besthit_sim_reformat.py /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles/CDS_HMM/Arthropoda_CDS_length_list Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like 'abun\=([0-9]+\.*[0-9]*)'  Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like.sorted
+
+2026-05-04 15:24:00,235 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/findmitoscaf/script/pick_seq_from_scoing_result_base_arr_v4.py Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like.sorted Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like.sorted.dotted Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like.sorted.picked Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like.sorted.picked.stat
+
+2026-05-04 15:24:00,265 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/findmitoscaf/script/extract_nhmmer_seq_v2.py -f Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like.sorted.picked -d mitochondrion_final.contigs.fa.reformatted.fa -o Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like.sorted.picked.fa
+
+2026-05-04 15:24:00,519 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/findmitoscaf/script/extract_Not-picked-seq.py Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like.sorted Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like.sorted.picked mitochondrion_final.contigs.fa.reformatted.fa Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like.sorted.Not-picked Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like.sorted.Not-picked.fa
+
+2026-05-04 15:24:00,764 - mitoz.utility.utility - INFO - 
+cp -r Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like.sorted.Not-picked Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like.sorted.Not-picked.fa /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/Lasioglossum_zephyrus.megahit.result
+
+2026-05-04 15:24:00,778 - mitoz.utility.utility - INFO - 
+select_sequences_by_gene_completeness() return:
+/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like.sorted.picked.fa
+
+2026-05-04 15:24:00,779 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/findmitoscaf/script/circle_check.py /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like.sorted.picked.fa Lasioglossum_zephyrus.megahit 3
+
+2026-05-04 15:24:01,000 - mitoz.utility.utility - INFO - 
+quick_circle_check() return:
+/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/Lasioglossum_zephyrus.megahit.mitogenome.fa
+
+2026-05-04 15:24:01,001 - mitoz.utility.utility - INFO - 
+cp -r /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/Lasioglossum_zephyrus.megahit.hmmtblout.besthit.sim.filtered-by-taxa.fasta-like.sorted.picked.fa /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/Lasioglossum_zephyrus.megahit.mitogenome.fa /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/Lasioglossum_zephyrus.megahit.overlap_information /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/Lasioglossum_zephyrus.megahit.result
+
+2026-05-04 15:24:01,013 - mitoz.utility.utility - INFO - 
+use_megahit() found:
+assembly_file: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/megahit_out/final.contigs.fa
+mt_file: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/Lasioglossum_zephyrus.megahit.mitogenome.fa
+
+2026-05-04 15:24:01,013 - mitoz.utility.utility - INFO - 
+assemble.main() found resulting_mt_files:
+/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/Lasioglossum_zephyrus.megahit.mitogenome.fa
+
+2026-05-04 15:24:01,014 - mitoz.utility.utility - INFO - 
+And related resulting files can be found from:
+/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/Lasioglossum_zephyrus.megahit.result
+
+2026-05-04 15:24:01,015 - mitoz.utility.utility - INFO - 
+annotate.main() got args:
+{'logger': <Logger mitoz.utility.utility (DEBUG)>, 'workdir': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation', 'outprefix': 'Lasioglossum_zephyrus', 'thread_number': '20', 'fq1': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R1.fq.gz', 'fq2': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R2.fq.gz', 'fastafiles': ['/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/Lasioglossum_zephyrus.megahit.mitogenome.fa'], 'profiles_dir': '/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles', 'species_name': 'Lasioglossum_zephyrus', 'template_sbt': '/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/template.sbt', 'genetic_code': '5', 'clade': 'Arthropoda', 'mitoz_module_used': 'assemble'}
+
+2026-05-04 15:24:01,015 - mitoz.utility.utility - INFO - 
+annotate.main() got updated args:
+{'logger': <Logger mitoz.utility.utility (DEBUG)>, 'workdir': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation', 'outprefix': 'Lasioglossum_zephyrus', 'thread_number': '20', 'fq1': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R1.fq.gz', 'fq2': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R2.fq.gz', 'fastafiles': ['/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/Lasioglossum_zephyrus.megahit.mitogenome.fa'], 'profiles_dir': '/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles', 'species_name': 'Lasioglossum_zephyrus', 'template_sbt': '/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/template.sbt', 'genetic_code': '5', 'clade': 'Arthropoda', 'mitoz_module_used': 'assemble'}
+
+2026-05-04 15:24:01,015 - mitoz.utility.utility - INFO - 
+annotate.main() will be working in:/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation
+
+2026-05-04 15:24:01,015 - mitoz.utility.utility - INFO - 
+Creating workdir:/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation
+
+2026-05-04 15:24:01,016 - mitoz.utility.utility - INFO - 
+annotate.main() chdir:/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation
+
+2026-05-04 15:24:01,016 - mitoz.utility.utility - INFO - 
+annotate.main() MT_annotation_BGI_pro_db:/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles/MT_database/Arthropoda_CDS_protein.fa
+
+2026-05-04 15:24:01,016 - mitoz.utility.utility - INFO - 
+annotate.main() defined_gene_length_f:/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles/CDS_HMM/Arthropoda_CDS_length_list
+
+2026-05-04 15:24:01,016 - mitoz.utility.utility - INFO - 
+annotate.main() s_rRNA_CM:/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles/rRNA_CM/v1.1_12snew.cm
+
+2026-05-04 15:24:01,016 - mitoz.utility.utility - INFO - 
+annotate.main() l_rRNA_CM:/home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles/rRNA_CM/v1.1_16snew.cm
+
+2026-05-04 15:24:01,016 - mitoz.utility.utility - INFO - 
+Start to check if the sequence ids are too long (which will not work with BioPython) later.
+
+2026-05-04 15:24:01,017 - mitoz.utility.utility - WARNING - 
+File /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/Lasioglossum_zephyrus.megahit.mitogenome.fa, the sequence id '>k99_190361': length is okay! And there is topology information 'topology=linear' at the header line!!
+
+2026-05-04 15:24:01,018 - mitoz.utility.utility - INFO - 
+Starting to annotate /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/Lasioglossum_zephyrus.megahit.mitogenome.fa
+
+2026-05-04 15:24:01,018 - mitoz.utility.utility - INFO - 
+result_wdir for /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/megahit/Lasioglossum_zephyrus.megahit.mitogenome.fa: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/Lasioglossum_zephyrus.Lasioglossum_zephyrus.megahit.mitogenome.fa.result
+
+2026-05-04 15:24:01,018 - mitoz.utility.utility - INFO - 
+working in /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa
+
+2026-05-04 15:24:01,018 - mitoz.utility.utility - INFO - 
+annotation_infile: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa
+
+2026-05-04 15:24:01,031 - mitoz.utility.utility - INFO - 
+Got topology information for k99_190361: topology=linear
+
+2026-05-04 15:24:01,031 - mitoz.utility.utility - INFO - 
+cds_annotation() chdir to /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa
+
+2026-05-04 15:24:01,044 - mitoz.utility.utility - INFO - 
+export WISECONFIGDIR=/home/liuzhiyu/Software/miniconda3/envs/MitoZ/share/wise2/wisecfg
+perl /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/MT_annotation_BGI_V1.32/MT_annotation_BGI.pl -i /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa -d /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles/MT_database/Arthropoda_CDS_protein.fa -o ./ -g 5 -cpu 20
+
+2026-05-04 15:24:21,123 - mitoz.utility.utility - INFO - 
+rm -rf *.nhr *.nin *.nsq *.ndb *.nto *.not *.ntf formatdb.log *.tblastn.shell *.length *.blast *.blast.filter *.shell *.blast.solar *.blast.solar.filter *.blast.solar.filter.table *.blast.solar.filter.table.nonredundance *.blast.solar.filter.nr *.genewise *.solar.genewise.gff *.solar.genewise.gff.cds
+
+2026-05-04 15:24:21,144 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/prepare_CDSposition.py Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.solar.genewise.gff.cds.position.cds Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.cds.position
+
+2026-05-04 15:24:21,202 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/pick_most_related_sp_from_position_cds.py Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.solar.genewise.gff.cds.position.cds /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.most_related_species.txt 
+
+2026-05-04 15:24:21,900 - mitoz.utility.utility - INFO - 
+sort -k1,1 -k6,6n Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.cds.position >Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.cds.position.sorted
+
+2026-05-04 15:24:21,914 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/revise_CDS_pos_v6.py /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.cds.position.sorted 5 Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.cds.position.sorted.revised
+
+2026-05-04 15:24:22,235 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/filter_cds_by_annotated-len.py Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.cds.position.sorted.revised Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.cds.position.sorted.revised.filtered 0.8 
+
+2026-05-04 15:24:22,271 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/cds_ft_v2.py Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.cds.position.sorted.revised.filtered 5 Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.cds.ft
+
+2026-05-04 15:24:22,307 - mitoz.utility.utility - INFO - 
+cds_annotation() chdir back to /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation
+
+2026-05-04 15:24:22,308 - mitoz.utility.utility - INFO - 
+cds_annotation() return:
+mt_file_cdsft: Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.cds.ft
+annt_most_related_sp_file: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.most_related_species.txt
+
+2026-05-04 15:24:22,308 - mitoz.utility.utility - INFO - 
+tRNA_annotation() chdir to /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa
+
+2026-05-04 15:24:22,308 - mitoz.utility.utility - INFO - 
+## begin tRNA annotation...
+## remove previous tRNA result file (if any)
+rm -rf /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.trna
+
+2026-05-04 15:24:22,321 - mitoz.utility.utility - INFO - 
+cd /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/mitfi
+# and find the cmsearch progrm 
+./detect_platform.sh 
+java -Xmx2048m -jar mitfi.jar -cores 1  -code 5 -evalue 0.001 -onlycutoff /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.k99_190361 >>/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.trna
+
+2026-05-04 15:27:36,202 - mitoz.utility.utility - INFO - 
+rm -rf /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.k99_190361
+
+2026-05-04 15:27:36,216 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/tRNA_ft_mitfi.py /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.trna /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.trna.ft
+
+2026-05-04 15:27:36,253 - mitoz.utility.utility - INFO - 
+tRNA_annotation() chdir back to /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation
+
+2026-05-04 15:27:36,254 - mitoz.utility.utility - INFO - 
+rRNA_annotation() chdir to /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa
+
+2026-05-04 15:27:36,254 - mitoz.utility.utility - INFO - 
+cmsearch -g --tblout Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.s-rRNA.tbl --cpu 20 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles/rRNA_CM/v1.1_12snew.cm /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa >Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.s-rRNA.out
+
+2026-05-04 15:27:36,797 - mitoz.utility.utility - INFO - 
+cmsearch --tblout Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.s-rRNA.tbl --cpu 20 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles/rRNA_CM/v1.1_12snew.cm /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa >Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.s-rRNA.out
+
+2026-05-04 15:27:37,349 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/rRNA_ft.py Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.s-rRNA.tbl /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.s-rRNA.ft
+
+2026-05-04 15:27:37,381 - mitoz.utility.utility - INFO - 
+cmsearch -g --tblout /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.l-rRNA.tbl --cpu 20 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/profiles/rRNA_CM/v1.1_16snew.cm /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa >/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.l-rRNA.out
+
+2026-05-04 15:27:46,054 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/rRNA_ft.py /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.l-rRNA.tbl /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.l-rRNA.ft
+
+2026-05-04 15:27:46,085 - mitoz.utility.utility - INFO - 
+rRNA_annotation() chdir back to /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation
+
+2026-05-04 15:27:46,085 - mitoz.utility.utility - INFO - 
+rRNA_annotation() return:
+s_rRNA_ft: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.s-rRNA.ft
+l_rRNA_ft: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.l-rRNA.ft
+
+2026-05-04 15:27:46,086 - mitoz.utility.utility - INFO - 
+combine_annotations_and_find_control_region() chdir to /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa
+
+2026-05-04 15:27:46,086 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/join_ft.py /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.tbl Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.cds.ft /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.trna.ft /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.l-rRNA.ft
+
+2026-05-04 15:27:46,115 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/prepare_fsa.py /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa 'Lasioglossum_zephyrus' 5 /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.fsa
+
+2026-05-04 15:27:46,149 - mitoz.utility.utility - INFO - 
+tbl2asn -t /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/template.sbt -a s -p . -V vb
+
+2026-05-04 15:27:46,198 - mitoz.utility.utility - INFO - 
+/home/liuzhiyu/Software/miniconda3/envs/MitoZ/bin/python3.8 /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/annotate/script/genbank_gene_stat_v2.py /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.gbf /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.most_related_species.txt assemble > summary.txt
+
+2026-05-04 15:27:46,478 - mitoz.utility.utility - INFO - 
+combine_annotations_and_find_control_region() chdir back to /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation
+
+2026-05-04 15:27:46,479 - mitoz.utility.utility - INFO - 
+combine_annotations_and_find_control_region() return:
+    tbl_file:/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.tbl
+    errorsummary_val_file: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/errorsummary.val
+    tbl2asn_gbf: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.gbf
+    summary_file: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/summary.txt
+
+2026-05-04 15:27:46,479 - mitoz.utility.utility - INFO - 
+extract_gene_sequences() chdir to /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa
+
+2026-05-04 15:27:46,479 - mitoz.utility.utility - INFO - 
+mitoz-tools gbseqextractor -f /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.gbf -prefix Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.gbf -types CDS rRNA tRNA wholeseq gene -cds_translation -p -l
+
+2026-05-04 15:27:47,526 - mitoz.utility.utility - INFO - 
+extract_gene_sequences() chdir back to /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation
+
+2026-05-04 15:27:47,527 - mitoz.utility.utility - INFO - 
+gather_result() creating: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/Lasioglossum_zephyrus.Lasioglossum_zephyrus.megahit.mitogenome.fa.result
+
+2026-05-04 15:27:47,527 - mitoz.utility.utility - INFO - 
+cp -r /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.most_related_species.txt /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.tbl /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/errorsummary.val /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.gbf* /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/summary.txt /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/Lasioglossum_zephyrus.Lasioglossum_zephyrus.megahit.mitogenome.fa.result
+
+2026-05-04 15:27:47,543 - mitoz.utility.utility - INFO - 
+visualize.main() got args:
+{'logger': <Logger mitoz.utility.utility (DEBUG)>, 'circos': 'circos', 'gb': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.gbf', 'gc': 'no', 'win': 50, 'gc_fill': '128,177,211', 'depth_file': '', 'run_map': 'yes', 'fq1': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R1.fq.gz', 'fq2': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R2.fq.gz', 'bwa': 'bwa', 'thread': '20', 'samtools': 'samtools', 'opts_samtools': '-a -a', 'depth_fill': '190,186,218', 'cds_color': '141,211,199', 'trna_color': '251,128,114', 'rrna_color': '253,192,134', 'label_color': 'black', 'locus_color': 'black', 'base': 'no', 'bgc': 'white', 'outdir': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/mt_visualization', 'png': 'yes', 'svg': 'yes'}
+
+2026-05-04 15:27:47,544 - mitoz.utility.utility - INFO - 
+visualize.main() got updated args:
+{'logger': <Logger mitoz.utility.utility (DEBUG)>, 'circos': 'circos', 'gb': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.gbf', 'gc': 'no', 'win': 50, 'gc_fill': '128,177,211', 'depth_file': '', 'run_map': 'yes', 'fq1': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R1.fq.gz', 'fq2': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/clean_data/Lasioglossum_zephyrus.clean_R2.fq.gz', 'bwa': 'bwa', 'thread': '20', 'samtools': 'samtools', 'opts_samtools': '-a -a', 'depth_fill': '190,186,218', 'cds_color': '141,211,199', 'trna_color': '251,128,114', 'rrna_color': '253,192,134', 'label_color': 'black', 'locus_color': 'black', 'base': 'no', 'bgc': 'white', 'outdir': '/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/mt_visualization', 'png': 'yes', 'svg': 'yes'}
+
+2026-05-04 15:27:47,544 - mitoz.utility.utility - INFO - 
+visualize.main() creating: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/mt_visualization
+
+2026-05-04 15:27:47,544 - mitoz.utility.utility - INFO - 
+visualize.main() chdir to: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/mt_visualization
+
+2026-05-04 15:27:47,544 - mitoz.utility.utility - INFO - 
+sort_gb_by_length():
+in_gb: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.gbf
+out_gb: Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.gbf.sortedByLength
+
+2026-05-04 15:27:47,559 - mitoz.utility.utility - INFO - 
+updated args.gb: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/mt_visualization/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.gbf.sortedByLength
+
+2026-05-04 15:27:47,559 - mitoz.utility.utility - INFO - 
+circos using this config_file: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/mt_visualization/visual_config.txt
+
+2026-05-04 15:27:47,560 - mitoz.utility.utility - INFO - 
+perl /home/liuzhiyu/Software/miniconda3/envs/MitoZ/lib/python3.8/site-packages/mitoz/visualize/draw_circos_for_mitogenome_auto_depth.pl --gb /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/mt_visualization/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.gbf.sortedByLength --conf /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/mt_visualization/visual_config.txt
+
+
+2026-05-04 15:27:58,186 - mitoz.utility.utility - INFO - 
+visualize.main() returns: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/mt_visualization
+
+2026-05-04 15:27:58,187 - mitoz.utility.utility - INFO - 
+cp -r /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/mt_visualization/circos.png /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/mt_visualization/circos.svg /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/mt_visualization/circos.depth.txt /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/Lasioglossum_zephyrus.Lasioglossum_zephyrus.megahit.mitogenome.fa.result
+
+2026-05-04 15:27:58,199 - mitoz.utility.utility - ERROR - 
+Error occured when running command:
+cp -r /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/mt_visualization/circos.png /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/mt_visualization/circos.svg /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/mt_visualization/circos.depth.txt /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/Lasioglossum_zephyrus.Lasioglossum_zephyrus.megahit.mitogenome.fa.result
+
+
+2026-05-04 15:27:58,200 - mitoz.utility.utility - INFO - 
+
+Found resulting_gb_files:
+/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/tmp_Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa/Lasioglossum_zephyrus_Lasioglossum_zephyrus.megahit.mitogenome.fa_mitoscaf.fa.gbf
+
+2026-05-04 15:27:58,200 - mitoz.utility.utility - INFO - 
+And related resulting files can be found from:
+/home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/Lasioglossum_zephyrus.Lasioglossum_zephyrus.megahit.mitogenome.fa.result
+
+2026-05-04 15:27:58,201 - mitoz.utility.utility - INFO - 
+gather_result() creating: /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/Lasioglossum_zephyrus.result
+
+2026-05-04 15:27:58,201 - mitoz.utility.utility - INFO - 
+cp -r /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_assembly/Lasioglossum_zephyrus.megahit.result /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/mt_annotation/Lasioglossum_zephyrus.Lasioglossum_zephyrus.megahit.mitogenome.fa.result /home/liuzhiyu/Projects/neo_caste/Mito_Assemble/1_generate-mito/mito-out/Lasioglossum_zephyrus/Lasioglossum_zephyrus.result

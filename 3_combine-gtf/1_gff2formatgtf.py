@@ -32,8 +32,18 @@ def gff2gtf(sp_name):
 # %%
 
 gff2gtf("Bombus_terrestris")
+
+# %%
+
 gff2gtf("Harpegnathos_saltator")
+
+# %%
+
 gff2gtf("Monomorium_pharaonis")
+
+# %%
+
+gff2gtf("Lasioglossum_zephyrus")
 
 
 # %%
